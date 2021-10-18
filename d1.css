@@ -1,0 +1,117 @@
+body, h1,h2,h3,h4,h5,h6,p{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+#texto_central{
+
+    height: 50vh;
+    color: black;
+    font-family: Helvetica;
+    font-size: 21px;
+    border-right: 1px dashed black;
+    margin-left: 50px;
+    padding: 10px;
+    align-items: center;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    background-color: rgba(0,0,0,0.4);
+    
+}
+
+#link{
+    width: 35vw;
+    height: auto;
+    margin: auto;
+    font-family: Helvetica;
+    font-style: none;
+    color: #fff;
+    padding: 15px;
+
+}
+
+#corpo{
+    width: 90vh;
+    height: 20vh;
+    margin: 0 auto;
+    margin-top: 15vh;
+}
+
+#borda{
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+
+}
+
+#borda2{
+    border-style: dotted;
+    color:red;
+    align-items: inline-block;
+    
+}
+#email{
+    width: 50%;
+    height: 10vh;
+    justify-content: center;
+    margin-top: 40vh;
+
+}
+header{
+
+    margin: 0 auto;
+    width: auto;
+    height: 40px;
+    background-color: #212121;
+}
+#pai_cabeçalho{
+
+    position: absolute;
+    width: auto;
+    height: 40px;
+
+}
+h1{
+    margin: 0 auto;
+    padding-left: 3px;
+    padding-top: 2px;
+    color: #fff;
+    width: 80%;
+    height: 40px;
+
+}
+#filho1{
+    margin: 0 ;    
+    padding-left: 3px;
+    padding-top: 2px;
+    color: #fff;
+    width: auto;
+    height: 40px;
+}
+#filho2{
+    margin: 0 auto;
+    padding-left: 3px;
+    padding-top: 2px;
+    color: #fff;
+    width: auto;
+    height: 40px;
+
+}
+#filho3{
+    margin: 0 auto;
+    padding-left: 3px;
+    padding-top: 2px;
+    color: #fff;
+    width: auto;
+    height: 40px;
+}
+
+main{
+    width: 60%;
+    height: auto;
+    padding: 50px;
+    margin: 1px color black;
+}
+
